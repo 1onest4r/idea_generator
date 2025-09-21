@@ -4,7 +4,9 @@ Click on button to generate your mini project ideas!
 **Important**
 
   Once you generate idea for your self go to Issues tab
-  and assign yourself to the idea you had got.
+  and assign yourself to the idea you had got. Also notify
+  me about what idea you have got so that i can update the
+  generator dataset.
 
 **After you finish**
 
